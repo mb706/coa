@@ -1,5 +1,9 @@
 # Compound Assignments
 
+![r-cmd-check](https://github.com/mb706/coa/actions/workflows/r-cmd-check.yml/badge.svg)
+
+## Usage
+
 This package provides compound assignment operators:
 ```r
 x <- 1
